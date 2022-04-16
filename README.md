@@ -1,4 +1,4 @@
-# Dynamic-Programming-and-Greedy-Approach
+# Dynamic Programming and Greedy Approach
 
 ## Table of Contents
 
